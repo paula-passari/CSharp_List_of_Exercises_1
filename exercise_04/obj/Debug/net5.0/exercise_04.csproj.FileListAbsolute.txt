@@ -1,0 +1,16 @@
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.exe
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.deps.json
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.runtimeconfig.json
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.runtimeconfig.dev.json
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.dll
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\ref\exercise_04.dll
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\bin\Debug\net5.0\exercise_04.pdb
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.csproj.AssemblyReference.cache
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.AssemblyInfoInputs.cache
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.AssemblyInfo.cs
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.csproj.CoreCompileInputs.cache
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.dll
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\ref\exercise_04.dll
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.pdb
+C:\Users\paula\Documents\CSharp_List_of_Exercises_1\exercise_04\obj\Debug\net5.0\exercise_04.genruntimeconfig.cache
