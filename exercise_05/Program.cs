@@ -4,9 +4,11 @@ namespace exercise_05
 {
     class Program
     {
-        // Write a C# Sharp program to swap two numbers.
+        
         static void Main(string[] args)
         {
+            // Write a C# Sharp program to swap two numbers.
+            
             int num1 = 5; int num2 = 6; int x;
             x = num1;
             num1 = num2;

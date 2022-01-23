@@ -4,10 +4,12 @@ namespace exercise_06
 {
     class Program
     {
-        /* Write a C# Sharp program to print the output of multiplication of three numbers which 
-        will be entered by the user. */
+        
         static void Main(string[] args)
         {
+            /* Write a C# Sharp program to print the output of multiplication of three numbers which 
+            will be entered by the user. */
+
             Console.Write("Type the 1st number: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Type the 2nd number: ");
